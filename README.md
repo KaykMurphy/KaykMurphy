@@ -1,4 +1,13 @@
 <div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;Spring+Boot+%7C+Spring+Security;Construindo+APIs+Escal%C3%A1veis" alt="Typing SVG" />
+  </a>
+
+  <p style="font-size: 16px;">
+      🎓 Estudante de Engenharia de Software focado em<br/>desenvolvimento de soluções robustas com Java.
+  </p>
+  
   <br/>
 
   <div style="display: inline_block">
